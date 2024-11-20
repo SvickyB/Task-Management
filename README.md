@@ -94,12 +94,13 @@ npm run test
 
 ## 🖼 Screenshots
 
-### Main Task List View
-![WhatsApp Image 2024-11-20 at 7 04 08 PM](https://github.com/user-attachments/assets/4640cdc5-ad14-430e-bb18-de795c157131)
 
-### Create/Edit Task Form
+
+### Main Task List View 
 ![WhatsApp Image 2024-11-20 at 7 03 36 PM](https://github.com/user-attachments/assets/c87446a0-a2df-4ad8-91f9-5c0c6cb724d4)
 ![WhatsApp Image 2024-11-20 at 7 01 11 PM](https://github.com/user-attachments/assets/9eac7cde-6d56-4452-a5d1-a86606820f56)
+### Create/Edit Task Form
+![WhatsApp Image 2024-11-20 at 7 04 08 PM](https://github.com/user-attachments/assets/4640cdc5-ad14-430e-bb18-de795c157131)
 
 
 ### Task Details View
