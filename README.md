@@ -38,8 +38,8 @@ This is a full-stack Task Management System built with React for the frontend, E
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/task-management-system.git
-cd task-management-system
+git clone https://github.com/SvickyB/Task-Management/
+cd Task-Management
 ```
 
 ### Setup Backend
@@ -54,12 +54,6 @@ cd backend
 npm install
 ```
 
-3. Create a `.env` file in the backend directory (optional, for future expansion)
-```
-PORT=3001
-API_URL=http://localhost:3001/api
-```
-
 ### Setup Frontend
 
 1. Navigate to the frontend directory
@@ -72,18 +66,13 @@ cd ../frontend
 npm install
 ```
 
-3. Create a `.env` file in the frontend directory
-```
-REACT_APP_API_URL=http://localhost:3001/api
-```
-
 ## 🏃 Running the Application
 
 ### Start Backend Server
 
 In the `backend` directory:
 ```bash
-npm start
+npm src/server.js
 ```
 - Server will run on `http://localhost:3001`
 
@@ -100,40 +89,22 @@ npm start
 ### Backend Tests
 ```bash
 cd backend
-npm test
-```
-
-### Frontend Tests
-```bash
-cd frontend
-npm test
+npm run test
 ```
 
 ## 🖼 Screenshots
 
 ### Main Task List View
-![Main Task List](/screenshots/task-list.png)
+![WhatsApp Image 2024-11-20 at 7 04 08 PM](https://github.com/user-attachments/assets/4640cdc5-ad14-430e-bb18-de795c157131)
 
 ### Create/Edit Task Form
-![Task Form](/screenshots/task-form.png)
+![WhatsApp Image 2024-11-20 at 7 03 36 PM](https://github.com/user-attachments/assets/c87446a0-a2df-4ad8-91f9-5c0c6cb724d4)
+![WhatsApp Image 2024-11-20 at 7 01 11 PM](https://github.com/user-attachments/assets/9eac7cde-6d56-4452-a5d1-a86606820f56)
+
 
 ### Task Details View
-![Task Details](/screenshots/task-details.png)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📞 Contact
-
-Your Name - youremail@example.com
-
-Project Link: [https://github.com/yourusername/task-management-system](https://github.com/yourusername/task-management-system)
